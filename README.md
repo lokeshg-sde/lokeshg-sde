@@ -1,10 +1,10 @@
 # Lokesh G
 
-## Hi, I am a ReactJS/Frontend Developer 👩‍💻
+## Hi, I am a ReactJS/Frontend Developer
 
 🔭 I am open for a full-time React Developer job. Currently,I am working as a full-time React Developer in GlobalLogic.With expertise in React, I am working in MERN stack & TypeScript.
 
-🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Figma, Photoshop, Scuba Diving and driving a car.🙂
+🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Figma, Photoshop, Scuba Diving and driving a car.
 
 👯 I like to write Tech Blog on DEV,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
@@ -40,9 +40,9 @@
 
 ---
 
-![Lokesh's Github Stats](https://github-readme-stats.vercel.app/api?username=lokeshg-fsd&count_private=true&theme=dracula&show_icons=true)
+![Lokesh's Github Stats](https://github-readme-stats.vercel.app/api?username=lokeshg-fsd&count_private=true&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshg-fsd)](https://github.com/lokeshg-fsd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshg-fsd)]
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lokeshg-fsd)
 
