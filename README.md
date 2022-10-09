@@ -42,7 +42,7 @@
 
 ![Lokesh's Github Stats](https://github-readme-stats.vercel.app/api?username=lokeshg-fsd&count_private=true&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshg-fsd)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshg-fsd)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lokeshg-fsd)
 
