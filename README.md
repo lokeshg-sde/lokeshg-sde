@@ -1,6 +1,6 @@
 # Lokesh G
 
-## Hi, I am a ReactJS/Frontend Developer
+## Hi, I am a Full Stack Developer (Java, ReactJS).
 
 🔭 I am open for a full-time React Developer job. Currently,I am working as a full-time React Developer in GlobalLogic.With expertise in React, I am working in MERN stack & TypeScript.
 
