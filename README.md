@@ -46,8 +46,9 @@ Welcome to my GitHub profile!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshg-sde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lokesh's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshg-sde&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshg-sde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Lokesh's GitHub Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshg-sde&layout=compact&theme=tokyonight&langs_count=8&count_private=true&cache_seconds=86400" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
