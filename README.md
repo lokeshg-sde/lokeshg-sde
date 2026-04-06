@@ -42,4 +42,18 @@ Welcome to my GitHub profile!
 - 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-gudisinti/)
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshg-sde&show_icons=true&theme=default)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshg-sde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lokesh's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshg-sde&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lokeshg-sde&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lokeshg-sde&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
