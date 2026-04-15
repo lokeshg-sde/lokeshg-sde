@@ -12,6 +12,9 @@ Welcome to my GitHub profile!
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=lokeshg-sde&color=blue&style=flat)
+
+
 ## 🛠️ Technologies & Tools
 
 | AI/ML | Cloud | Programming | Web & Full-Stack | Tools & Platforms |
@@ -58,3 +61,4 @@ Welcome to my GitHub profile!
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lokeshg-sde&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
+
